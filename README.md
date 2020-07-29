@@ -15,4 +15,4 @@ $ echo /this/is/a/test | ./sprawl.py -s
 /test
 
 ```
-https://asciinema.org/a/6h2IhU6XwbPBE62xNEh4z3Y8S
+[![asciicast](https://asciinema.org/a/6h2IhU6XwbPBE62xNEh4z3Y8S.png)](https://asciinema.org/a/6h2IhU6XwbPBE62xNEh4z3Y8S)
