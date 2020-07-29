@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-import argparse, textwrap, sys
+import argparse, sys
 
 parser = argparse.ArgumentParser(description = "Expand a list of paths into a much larger wordlist by creating an entry for each path depth.")
 
